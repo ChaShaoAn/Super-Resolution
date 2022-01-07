@@ -25,5 +25,5 @@ python main_test_swinir.py --task classical_sr --scale 3 --model_path <model_pat
 And will get results in `results/`
 
 ## Reference
-[KAIR](https://github.com/cszn/KAIR)
-[SwinIR](https://github.com/JingyunLiang/SwinIR)
+- [KAIR](https://github.com/cszn/KAIR)
+- [SwinIR](https://github.com/JingyunLiang/SwinIR)
